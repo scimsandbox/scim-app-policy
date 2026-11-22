@@ -11,6 +11,9 @@ Do not report security vulnerabilities through public issues.
 Use GitHub's private vulnerability reporting:
 **Security → Report a vulnerability** on this repository.
 
+If private vulnerability reporting is unavailable, contact us directly
+at [support@scimsandbox.net](mailto:support@scimsandbox.net).
+
 Include:
 
 - a description of the vulnerability
